@@ -1,10 +1,10 @@
 # PROBLEM STATMENT
 Design a network in CISCO packet tracer to connect ACCOUNTS and DELIVERY departments through the following:
--a. Each department should contain at least 2 PCs.
--b. Appropriate number of switches and routers should be used in the network.
--c. Using the given network address 192.168.40.0, all interfaces should be configured with appropriate IP addresses, subnet mask and gateways.
--d. All devices in the network should be connected using appropriate cables.
--e. Test the connectivity between ACCOUNTS and DELIVERY department -PCs in DELIVERY department should be able to ping the PCs in ACCOUNTS department
+a. Each department should contain at least 2 PCs.
+b. Appropriate number of switches and routers should be used in the network.
+c. Using the given network address 192.168.40.0, all interfaces should be configured with appropriate IP addresses, subnet mask and gateways.
+d. All devices in the network should be connected using appropriate cables.
+e. Test the connectivity between ACCOUNTS and DELIVERY department -PCs in DELIVERY department should be able to ping the PCs in ACCOUNTS department
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -43,6 +43,11 @@ Connect two departments using Cisco Packet Tracer. Assign IP addresses, connect 
 Delivery PC successfully pinged Accounts PC. Network is working.
 
 ## 📸 Screenshots
-![Network Topology](topology.png)  
+# NETWORK TOPOLOGY
+![Network Topology](topology.png) 
+
+# IP CONFIG PC0
 ![IP Config](IP_Config_PC0.png)  
+
+# PING PC01 TO PC02
 ![Ping Test](Ping_PC01_to_PC02.png)
